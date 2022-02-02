@@ -1,7 +1,9 @@
 # command-minesweeper
 
 ## Commands
+```
 Syntax: RowColumnAction
+```
 ```
 Example: 12c
 1 = Row
