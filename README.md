@@ -1,6 +1,6 @@
 # command-minesweeper
 
-##Commands
+## Commands
 Syntax: RowColumnAction
 ```
 Example: 12c
